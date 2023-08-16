@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jenil Jani</h1>
-<h3 align="center">👋📊 Hey there! I'm a data science enthusiast proficient in Python libraries and well-versed in both core machine learning and deep learning frameworks. With a strong foundation in data manipulation, model building, and visualization, I create practical solutions. I've tackled diverse projects, from predictive sales analysis to image classification, and I'm always eager to collaborate on exciting data-driven ventures. Let's connect and explore the endless possibilities of data! 🚀🔍📈</h3>
+<h1 align="center">Hi 👋🏻, I'm Jenil Jani</h1>
+<h3 align="center">👋🏻📊 Hey there! I'm a data science enthusiast proficient in Python libraries and well-versed in both core machine learning and deep learning frameworks. With a strong foundation in data manipulation, model building, and visualization, I create practical solutions. I've tackled diverse projects, from predictive sales analysis to image classification, and I'm always eager to collaborate on exciting data-driven ventures. Let's connect and explore the endless possibilities of data! 🚀🔍📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeniljani-4444&label=Profile%20views&color=0e75b6&style=flat" alt="jeniljani-4444" /> </p>
 
