@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on Machine Learning and LLM Projects
 
-👨‍💻 All of my projects are available at (https://github.com/jeniljani-4444)
+👨‍💻 All of my projects are available at https://github.com/jeniljani-4444
 
 💬 Ask me about Python, Data Science, Machine Learning, Generative AI, LLMs
 
